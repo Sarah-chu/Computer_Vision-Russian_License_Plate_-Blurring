@@ -1,1 +1,2 @@
-# Computer_Vision-Russian_License_Plate_-Blurring
+# Computer Vision - Russian License Plate Blurring
+
